@@ -8,4 +8,6 @@
 - [Сервера](./SERVER.md). Анонс и текущее состояние. 
 - [Авторизация игроков на серверах](./PLAYER.md).
   
+---
 
+- [Firebase REST API documentation](https://firebase.google.com/docs/reference/rest/).

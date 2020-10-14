@@ -1,6 +1,6 @@
 # Регистрация и авторизация
 
-Для регистрации используйте `API_KEY` hub-а: `AIzaSyCBIQuVs-kSfn_zntT4rfpjdyXmr5_nzL4`.
+Для регистрации используйте `API_KEY` хаба: `AIzaSyCBIQuVs-kSfn_zntT4rfpjdyXmr5_nzL4`.
 
 ---
 
@@ -20,7 +20,7 @@
  - `refreshToken` — Auth refresh token. Используется для обновления Auth ID token.
 
 Залогиниться повторно в такую учетную запись нельзя. 
-Вам нужно будет сохранять `refreshToken` и использовать его для получения свежего `idToken`.
+Нужно будет сохранять `refreshToken` и использовать его для получения свежего `idToken`.
   
 ## Персонализированная учетная запись
 
@@ -46,3 +46,6 @@
        'https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key={API_KEY}'
 
 Ответ аналогичен запросам на регистрацию.
+
+---
+[ << Содержание](./README.md)
